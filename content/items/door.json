@@ -1,0 +1,7 @@
+{
+  "name": "Дор",
+  "description": "Основной компонент дверей.",
+  "cost": 1, 
+  "color": "ffdd00",
+  "research": "copper"
+}
