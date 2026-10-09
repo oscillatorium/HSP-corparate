@@ -1,0 +1,16 @@
+{
+  "type": "Wall",
+  "health": 500,
+  "buildTime": 60,
+  "size": 1,
+  "requirements": [
+    "copper/5"
+  ],
+  "category": "defense",
+  "research": {
+    "parent": "copper",
+    "requirements": [
+      "copper/500"
+    ]
+  }
+}
