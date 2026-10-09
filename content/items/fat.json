@@ -1,0 +1,8 @@
+{
+  "name": "Жир",
+  "description": "Основной защитный ресурс. Может гореть. (даже спрашивай)",
+  "cost": 1, 
+  "color": "ffff00", 
+  "flammability": 0.5,
+  "research": "copper"
+}
