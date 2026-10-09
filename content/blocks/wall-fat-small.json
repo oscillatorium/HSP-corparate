@@ -1,16 +1,18 @@
 {
+  "name": "Малая жировая стенка",
+  "description": "Основное защитное сооружение.",
   "type": "Wall",
   "health": 500,
   "buildTime": 60,
   "size": 1,
   "requirements": [
-    "copper/5"
+    "fat/5"
   ],
   "category": "defense",
   "research": {
-    "parent": "copper",
+    "parent": "fat",
     "requirements": [
-      "copper/500"
+      "fat/500"
     ]
   }
 }
