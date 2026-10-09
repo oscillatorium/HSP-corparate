@@ -1,0 +1,10 @@
+displayName: "HSP"
+name: "hsp"
+author: "Кселирит, HSP"
+subtitle: "да"
+description: "Да"
+version: -1.0 I-Q
+minGameVersion: 146
+java: false
+hidden: false
+repo: "oscillatorium/HSP-corparate"
