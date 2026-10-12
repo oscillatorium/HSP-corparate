@@ -1,6 +1,7 @@
 {
   "name": "Малая жировая стенка",
   "description": "Основное защитное сооружение.",
+  "details": "0.(0)1% от жира одной жировой клетки базового жителя планеты.",
   "type": "Wall",
   "health": 500,
   "buildTime": 60,
@@ -10,7 +11,7 @@
   ],
   "category": "defense",
   "research": {
-    "parent": "fat",
+    "parent": "01-core-hsp",
     "requirements": [
       "fat/500"
     ]
