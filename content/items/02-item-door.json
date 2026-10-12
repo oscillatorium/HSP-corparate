@@ -1,0 +1,7 @@
+{
+  "name": "Дор",
+  "description": "Основной компонент двигающихся механизмов.",
+  "cost": 1, 
+  "color": "ffdd00",
+  "research": "01-item-hsp"
+}
