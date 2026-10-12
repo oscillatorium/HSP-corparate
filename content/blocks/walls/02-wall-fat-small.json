@@ -1,5 +1,5 @@
 {
-  "name": "Жировая стенка",
+  "name": "Маленькая жировая стенка",
   "description": "Основное защитное сооружение.",
   "details": "0.(0)1% от жира одной жировой клетки базового жителя планеты.",
   "type": "Wall",
@@ -11,7 +11,7 @@
   ],
   "category": "defense",
   "research": {
-    "parent": "01-wall-fat-small",
+    "parent": "01-wall-fat-microscopic",
     "requirements": [
       "fat/2000"
     ]
