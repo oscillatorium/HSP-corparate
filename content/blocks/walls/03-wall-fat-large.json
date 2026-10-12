@@ -1,0 +1,19 @@
+{
+  "name": "Немаленькая жировая стена",
+  "description": "Основное защитное сооружение.",
+  "details": "0.(0)1% от жира одной жировой клетки базового жителя планеты.",
+  "type": "Wall",
+  "health": 4500,
+  "buildTime": 360,
+  "size": 3,
+  "requirements": [
+    "fat/45"
+  ],
+  "category": "defense",
+  "research": {
+    "parent": "02-wall-fat",
+    "requirements": [
+      "fat/4500"
+    ]
+  }
+}
