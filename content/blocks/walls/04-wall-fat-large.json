@@ -1,0 +1,19 @@
+{
+  "name": "Большая жировая стенка",
+  "description": "Основное защитное сооружение.",
+  "details": "0.(0)1% от жира одной жировой клетки базового жителя планеты.",
+  "type": "Wall",
+  "health": 8000,
+  "buildTime": 2400,
+  "size": 4,
+  "requirements": [
+    "fat/80"
+  ],
+  "category": "defense",
+  "research": {
+    "parent": "03-wall-fat",
+    "requirements": [
+      "fat/8000"
+    ]
+  }
+}
