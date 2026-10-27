@@ -1,0 +1,20 @@
+{
+  "type": "MessageBlock",
+  "name": "Тупая Яндекс клавиатура",
+  "description": "Используется для записи тупых мыслей.",
+  "details": "",
+  "size": 3,
+  "health": 1,
+  "requirements": [
+    {"item": "ad", "amount": 15},
+    {"item": "stupidity", "amount": 10}
+  ],
+  "category": "logic",
+  "research": {
+    "parent": "core-hsp",
+    "requirements": [
+      {"item": "ad", "amount": 150},
+      {"item": "stupidity", "amount": 100}
+    ]
+  }
+}
