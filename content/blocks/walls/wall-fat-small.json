@@ -11,7 +11,7 @@
   ],
   "category": "defense",
   "research": {
-    "parent": "01-wall-fat-microscopic",
+    "parent": "wall-fat-microscopic",
     "requirements": [
       "fat/2000"
     ]
