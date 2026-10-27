@@ -8,8 +8,8 @@
   "unitType": "alpha",
   "category": "effect",
   "requirements": [
-    "hsp/52",
-    "door/67",
+    "item-hsp/52",
+    "item-door/67",
     "fat/42"
   ],
   "alwaysUnlocked": true,
