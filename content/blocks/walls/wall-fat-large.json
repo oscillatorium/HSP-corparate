@@ -11,7 +11,7 @@
   ],
   "category": "defense",
   "research": {
-    "parent": "03-wall-fat",
+    "parent": "wall-fat",
     "requirements": [
       "fat/8000"
     ]
