@@ -11,7 +11,7 @@
   ],
   "category": "defense",
   "research": {
-    "parent": "01-core-hsp",
+    "parent": "core-hsp",
     "requirements": [
       "fat/500"
     ]
