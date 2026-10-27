@@ -3,5 +3,5 @@
   "description": "Основной компонент мемов и блоков.",
   "cost": 1, 
   "color": "ffffff",
-  "research": "copper"
+  "research": "core-hsp"
 }
