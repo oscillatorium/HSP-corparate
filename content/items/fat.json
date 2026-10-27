@@ -1,8 +1,8 @@
 {
   "name": "Жир",
-  "description": "Основной защитный ресурс. Может гореть. (даже спрашивай)",
+  "description": "Основной [#ffff00]защитный ресурс[]. Может гореть.",
   "cost": 1, 
   "color": "ffff00", 
   "flammability": 0.5,
-  "research": "copper"
+  "research": "core-hsp"
 }
