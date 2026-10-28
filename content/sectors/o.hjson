@@ -1,0 +1,20 @@
+{
+  planet: "mem"
+  name: "бомжевар натрия"
+  sector: 0
+  difficulty: 0
+  captureWave: 2
+  alwaysUnlocked: true
+  addStartingItems: true
+  overrideLaunchDefaults: false
+  noLighting: true
+  research: {
+    parent: "core-hsp"
+    objectives: [
+      {
+        type: SectorComplete
+        preset: "groundZero"
+      }
+    ]
+  }
+}
