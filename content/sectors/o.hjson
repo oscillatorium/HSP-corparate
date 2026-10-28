@@ -1,5 +1,5 @@
 {
-  planet: "mem"
+  planet: "hsp-mem"
   name: "бомжевар натрия"
   sector: 0
   difficulty: 0
@@ -9,7 +9,7 @@
   overrideLaunchDefaults: false
   noLighting: true
   research: {
-    parent: "core-hsp"
+    parent: "hsp-core-hsp"
     objectives: [
       {
         type: SectorComplete
