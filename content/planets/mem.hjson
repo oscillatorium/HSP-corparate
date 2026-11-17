@@ -1,11 +1,11 @@
 name: "mem"
 localizedName: "Мемности"
 description: "Место, где тапки."
-parent: "sun"
-solarSystem: "sun"
+parent: "areston"
+solarSystem: "areston"
 visible: true
-radius: 1
-sectorSize: 1
+radius: 2.5
+sectorSize: 3
 accessible: true
 alwaysUnlocked: true
 startSector: 0
