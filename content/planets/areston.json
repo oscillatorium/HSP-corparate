@@ -1,0 +1,21 @@
+{
+  "type": "Planet",
+  "name": "areston",
+  "localizedName": "Арестон",
+  "description": "Трёхцветная звезд.",
+  "parent": "sun",
+  "solarSystem": "areston",
+  "orbitRadius": 500,
+  "showOrbit": false,
+  "radius": 15,
+  "atmosphereRadOut": 20,
+  "atmosphereColor": "00ff00",
+  "atmosphereOpacity": 0.5,
+  "mesh": {
+    "type": "NoiseMesh",
+    "color1": "ff0000",
+    "color2": "ffcc00",
+    "seed": 1234,
+    "noiseScale": 1.5
+  }
+}
